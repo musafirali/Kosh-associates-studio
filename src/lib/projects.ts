@@ -6,7 +6,7 @@ import project2A from "@/assets/project-2-a.jpg";
 import project2B from "@/assets/project-2-b.jpg";
 import project3Hero from "@/assets/project-3-hero.jpg";
 import project3A from "@/assets/project-3-a.jpg";
-import project4Hero from "@/assets/project-4-hero.jpg";
+import project4Hero from "@/assets/project-4-hero-new.jpg";
 import project4A from "@/assets/project-4-a.jpg";
 
 export interface Project {
